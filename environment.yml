@@ -1,0 +1,12 @@
+name: notebook-nglview
+dependencies:
+- python=3.4
+- pytraj-dev
+- matplotlib
+- nglview
+- mdtraj
+
+channels:
+  - anaconda
+  - omnia
+  - ambermd
