@@ -1,6 +1,5 @@
 name: notebook-nglview
 dependencies:
-- python=2.7
 - pytraj-dev
 - matplotlib
 - nglview
