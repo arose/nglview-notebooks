@@ -1,11 +1,11 @@
 name: notebook-nglview
 dependencies:
-- pytraj-dev
+- pytraj=1.0.3
 - matplotlib
 - nglview
 - mdtraj
 
 channels:
   - anaconda
-  - omnia
   - ambermd
+  - omnia
