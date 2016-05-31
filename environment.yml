@@ -6,10 +6,13 @@ dependencies:
 - pytraj
 - mdtraj
 - mdanalysis
+- traitlets=4.2.1
+- ipywidgets==4.1.1
+- notebook=4.1.0
 
 channels:
   - anaconda
   - ambermd
-  - omnia
   - kain88-de
   - MDAnalysis
+  - omnia
