@@ -2,7 +2,7 @@ name: notebook-nglview
 dependencies:
 - python=3.5
 - matplotlib
-- nglview-dev
+- nglview=0.5
 - pytraj
 - mdtraj
 - mdanalysis
