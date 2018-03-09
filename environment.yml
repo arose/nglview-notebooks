@@ -4,16 +4,17 @@ dependencies:
 - nomkl
 - nglview=1.0
 - ipywidgets==7.0.0
+- widgetsnbextension==3.0.0
 - ipykernel=4.6
 - ambertools=17
-- mdtraj
-- mdanalysis
+# - mdtraj # too slow to build
+# - mdanalysis # too slow to build
 
 channels:
   - anaconda
   - bioconda
   - http://ambermd.org/downloads/ambertools/conda/
-  - conda-forge
-  - kain88-de
-  - MDAnalysis
-  - omnia
+  # - conda-forge
+  # - kain88-de
+  # - MDAnalysis
+  # - omnia
