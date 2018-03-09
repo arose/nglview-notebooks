@@ -9,8 +9,8 @@ dependencies:
 
 channels:
   - anaconda
-  - conda-forge
   - bioconda
+  - conda-forge
   - ambermd
   - kain88-de
   - MDAnalysis
