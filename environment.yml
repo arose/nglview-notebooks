@@ -2,6 +2,8 @@ name: notebook-nglview
 dependencies:
 - python=3.6
 - matplotlib
+- ipykernel=4.6
+- ipywidgets=7.0
 - nglview=1.0
 - pytraj
 - mdtraj
