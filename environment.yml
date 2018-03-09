@@ -1,19 +1,18 @@
 name: notebook-nglview
 dependencies:
 - python=3.6
-- matplotlib
 - nglview=1.0
 - ipywidgets==7.0.0
 - ipykernel=4.6
-- pytraj=2.0
+- ambertools=17
 - mdtraj
 - mdanalysis
 
 channels:
   - anaconda
   - bioconda
+  - http://ambermd.org/downloads/ambertools/conda/
   - conda-forge
-  - ambermd
   - kain88-de
   - MDAnalysis
   - omnia
