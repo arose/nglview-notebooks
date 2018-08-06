@@ -1,0 +1,10 @@
+channels:
+- conda-forge
+- omnia
+dependencies:
+- jupyterlab
+- python
+- nglview
+- mdtraj
+- mdanalysis
+- simpletraj
