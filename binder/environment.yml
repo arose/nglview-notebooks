@@ -6,6 +6,7 @@ dependencies:
 - mdtraj
 - mdanalysis
 - simpletraj
+- nodejs=9.11.1
 - jupyterlab=0.33.6
 - nglview=1.1.5
 - ipython=6.5.0 
